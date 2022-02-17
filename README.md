@@ -2,7 +2,7 @@
 ### **1)To CONNECT to the database run the following command in terminal** 
    mysql -u root --protocol=tcp -p and press enter to enter the password
 ### **2)Enter QUERY** 
-   create database DBNAME
+   create database DBNAME;
 ### **3)CREATE Files and Folders** 
    * Under com.examly.springapp
    * Create FILES and FOLDER present in lab-# folders
