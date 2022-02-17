@@ -11,4 +11,4 @@
 ### **5)RUN Java**
 ### **5)CLICK PORT:8080**
 ### **7)Modify URL According to Question**
-  Verify the Result
+  Verify the Result using **POSTMAN**
